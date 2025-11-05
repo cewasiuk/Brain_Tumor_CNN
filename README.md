@@ -15,11 +15,7 @@ This project contains multiple models that our members worked on (either individ
 ### Authors  
 
 - Chris Ewasiuk   
-- Jacob Johnson
-- Wenwen Li
-- Suo-Jun Tan 
-  
-(*Alphabetical Order*)
+
 
 
 
