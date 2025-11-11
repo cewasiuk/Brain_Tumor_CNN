@@ -5,7 +5,7 @@ Calabrese, E., Villanueva-Meyer, J., Rudie, J., Rauschecker, A., Baid, U., Bakas
 
 Images used in the training, validation, and testing of the project are stored in a Google Drive: https://drive.google.com/drive/folders/1K2a1wk1ypiMCi0OhoNT8mHMcoaSGd0Pu?usp=drive_link
 
-This project contains a single model. For all models created for our project, visit https://github.com/Erdos-Projects/fall-2025-brain-tumor-diagnosis. :
+This project contains a single model, outlined in the file Tumor_NoTumor - 3D CNN Model. For all models created for our project, visit https://github.com/Erdos-Projects/fall-2025-brain-tumor-diagnosis. :
 - 3D Tumor vs No Tumor
 
 
@@ -13,6 +13,7 @@ This project contains a single model. For all models created for our project, vi
 ### Authors  
 
 - Chris Ewasiuk   
+
 
 
 
