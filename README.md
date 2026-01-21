@@ -9,10 +9,13 @@ This project contains a single model, outlined in the file Tumor_NoTumor - 3D CN
 - 3D Tumor vs No Tumor
 
 
+Output images of 3D CNN can be found in Tumor_NoTumor - 3D CNN Model/Summary Images
+
 ## Erdos Institute Data Science Project, Fall 2025  
 ### Authors  
 
 - Chris Ewasiuk   
+
 
 
 
